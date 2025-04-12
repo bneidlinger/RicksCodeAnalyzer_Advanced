@@ -1,10 +1,10 @@
 # 🧪 Rick's Code Analyzer
 
-[![Rick's Seal of Approval](https://img.shields.io/badge/Rick%20Sanchez-Approved-brightgreen)](https://github.com/yourusername/ricks-code-analyzer)
-[![Interdimensional License](https://img.shields.io/badge/license-Interdimensional-blue)](https://github.com/yourusername/ricks-code-analyzer)
-[![Jerry Confusion Level](https://img.shields.io/badge/Jerry%20Confusion-High-orange)](https://github.com/yourusername/ricks-code-analyzer)
+[![Rick's Seal of Approval](https://img.shields.io/badge/Rick%20Sanchez-Approved-brightgreen)](https://github.com/bneidlinger/rickscodeanalyzer_advanced)
+[![Interdimensional License](https://img.shields.io/badge/license-Interdimensional-blue)](https://github.com/bneidlinger/rickscodeanalyzer_advanced)
+[![Jerry Confusion Level](https://img.shields.io/badge/Jerry%20Confusion-High-orange)](https://github.com/bneidlinger/rickscodeanalyzer_advanced)
 
-## [👉 VIEW COMPLETE DOCUMENTATION WITH INTERACTIVE DEMO 👈](https://yourusername.github.io/ricks-code-analyzer)
+## [👉 VIEW COMPLETE DOCUMENTATION WITH INTERACTIVE DEMO 👈](https://bneidlinger.github.io/rickscodeanalyzer_advanced)
 *Your code has problems. Rick has solutions. Click above for the full experience.*
 
 > "Listen up, *burp* Jerry! This tool might actually make your code half-decent, which is saying a lot. Don't break it, or I'll turn your code repository into a Cronenberg disaster."
@@ -44,7 +44,7 @@ Even Jerry could follow these steps (probably):
 
 ```bash
 # Clone the repository 
-git clone https://github.com/yourusername/ricks-code-analyzer.git
+git clone https://github.com/bneidlinger/rickscodeanalyzer_advanced.git
 cd ricks-code-analyzer
 
 # Set up a virtual environment (optional but recommended)
@@ -93,4 +93,4 @@ This project is licensed under the "Don't Be a Jerry" License - Basically, do wh
 
 *Created by Rick Sanchez, C-137. Documented reluctantly for Jerry.*
 
-[Full Documentation](https://yourusername.github.io/ricks-code-analyzer) | [Report Issues](https://github.com/yourusername/ricks-code-analyzer/issues)
+[Full Documentation](https://bneidlinger.github.io/rickscodeanalyzer_advanced) | [Report Issues](https://github.com/bneidlinger/rickscodeanalyzer_advanced/issues)
