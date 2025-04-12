@@ -4,7 +4,7 @@
 [![Interdimensional License](https://img.shields.io/badge/license-Interdimensional-blue)](https://github.com/bneidlinger/rickscodeanalyzer_advanced)
 [![Jerry Confusion Level](https://img.shields.io/badge/Jerry%20Confusion-High-orange)](https://github.com/bneidlinger/rickscodeanalyzer_advanced)
 
-## [👉 VIEW COMPLETE DOCUMENTATION WITH INTERACTIVE DEMO 👈](https://bneidlinger.github.io/rickscodeanalyzer_advanced)
+## [👉 VIEW COMPLETE DOCUMENTATION WITH INTERACTIVE DEMO 👈](https://bneidlinger.github.io/RicksCodeAnalyzer_Advanced)
 *Your code has problems. Rick has solutions. Click above for the full experience.*
 
 > "Listen up, *burp* Jerry! This tool might actually make your code half-decent, which is saying a lot. Don't break it, or I'll turn your code repository into a Cronenberg disaster."
