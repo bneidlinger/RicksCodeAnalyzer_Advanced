@@ -1,0 +1,11 @@
+# Required packages for Rick's Code Analyzer
+jinja2>=2.11.3
+pygments>=2.7.4
+chardet>=4.0.0
+safety>=2.1.0
+# Optional but recommended packages
+pytest>=6.2.5
+flake8>=3.9.0
+black>=21.5b2
+# For development (optional)
+pyinstaller>=4.3
